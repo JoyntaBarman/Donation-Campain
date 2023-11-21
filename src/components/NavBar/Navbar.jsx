@@ -8,7 +8,7 @@ const Navbar = () => {
           {/* <a className="btn btn-ghost text-xl"> */}
           <img
             className="w-36 sm:w-52"
-            src="/src/assets/Logo.png"
+            src="../../../public/Logo.png"
             alt="Donation"
           />
           {/* </a> */}
