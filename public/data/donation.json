@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/M6Fx2xb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg":"#f8714733",
+    "card_bg": "#f8714726",
+    "text_bg": "#f87147",
+    "price": 200,
+    "description": "We welcome donations of non-perishable food items such as canned goods, rice, pasta, grains, cereals, shelf-stable milk, cooking oils, and other essential pantry items. Please ensure that the items are within their expiration dates and have unopened, undamaged packaging."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/27XYYQd/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg":"#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_bg": "#ff444a",
+    "price": 250,
+    "description": "Our Organization is thrilled to launch our Education Donation Campaign, a heartfelt initiative aimed at providing educational resources and opportunities to students in need. We believe that education is the key to unlocking potential, and with Our support, we can make a lasting impact on the lives of aspiring learners."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/hsKs3TC/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg":"#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_bg": "#79C23F",
+    "price": 199,
+    "description": "Our primary goal is to gather a variety of gently used clothing items, including winter coats, jackets, sweaters, hats, gloves, scarves, and other essential garments. By doing so, we hope to provide comfort and warmth to those facing challenging circumstances while promoting a sense of dignity and self-worth."
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/NpXFBWy/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg":"#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_bg": "#0052ff",
+    "price": 129,
+    "description": "We welcome both monetary and in-kind donations. Monetary contributions will be utilized to fund medical clinics, health education programs, vaccination drives, and the purchase of essential medical supplies. In-kind donations, such as medical equipment, first aid kits, and hygiene products, are also crucial to supporting our health-focused initiatives."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/27XYYQd/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg":"#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_bg": "#ff444a",
+    "price": 250,
+    "description": "Our Organization is thrilled to launch our Education Donation Campaign, a heartfelt initiative aimed at providing educational resources and opportunities to students in need. We believe that education is the key to unlocking potential, and with Our support, we can make a lasting impact on the lives of aspiring learners."
+  },
+
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/NpXFBWy/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg":"#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_bg": "#0052ff",
+    "price": 129,
+    "description": "We welcome both monetary and in-kind donations. Monetary contributions will be utilized to fund medical clinics, health education programs, vaccination drives, and the purchase of essential medical supplies. In-kind donations, such as medical equipment, first aid kits, and hygiene products, are also crucial to supporting our health-focused initiatives."
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/M6Fx2xb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg":"#f8714733",
+    "card_bg": "#f8714726",
+    "text_bg": "#f87147",
+    "price": 200,
+    "description": "We welcome donations of non-perishable food items such as canned goods, rice, pasta, grains, cereals, shelf-stable milk, cooking oils, and other essential pantry items. Please ensure that the items are within their expiration dates and have unopened, undamaged packaging."
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/hsKs3TC/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg":"#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_bg": "#79C23F",
+    "price": 199,
+    "description": "Our primary goal is to gather a variety of gently used clothing items, including winter coats, jackets, sweaters, hats, gloves, scarves, and other essential garments. By doing so, we hope to provide comfort and warmth to those facing challenging circumstances while promoting a sense of dignity and self-worth."
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/NpXFBWy/Health.png",
+    "category": "Health",
+    "title": "Clean water for children",
+    "category_bg":"#0052ff33",
+    "card_bg": "#0052ff26",
+    "text_bg": "#0052ff",
+    "price": 129,
+    "description": "We welcome both monetary and in-kind donations. Monetary contributions will be utilized to fund medical clinics, health education programs, vaccination drives, and the purchase of essential medical supplies. In-kind donations, such as medical equipment, first aid kits, and hygiene products, are also crucial to supporting our health-focused initiatives."
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/M6Fx2xb/Food.png",
+    "category": "Food",
+    "title": "Better Food for Everyone",
+    "category_bg":"#f8714733",
+    "card_bg": "#f8714726",
+    "text_bg": "#f87147",
+    "price": 200,
+    "description": "We welcome donations of non-perishable food items such as canned goods, rice, pasta, grains, cereals, shelf-stable milk, cooking oils, and other essential pantry items. Please ensure that the items are within their expiration dates and have unopened, undamaged packaging."
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/hsKs3TC/Clothing.png",
+    "category": "Clothing",
+    "title": "Used Clothing Drive",
+    "category_bg":"#79c23f33",
+    "card_bg": "#79c23f26",
+    "text_bg": "#79C23F",
+    "price": 199,
+    "description": "Our primary goal is to gather a variety of gently used clothing items, including winter coats, jackets, sweaters, hats, gloves, scarves, and other essential garments. By doing so, we hope to provide comfort and warmth to those facing challenging circumstances while promoting a sense of dignity and self-worth."
+  },
+
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/27XYYQd/Education.png",
+    "category": "Education",
+    "title": "Good education",
+    "category_bg":"#ff444a33",
+    "card_bg": "#ff444a26",
+    "text_bg": "#ff444a",
+    "price": 250,
+    "description": "Our Organization is thrilled to launch our Education Donation Campaign, a heartfelt initiative aimed at providing educational resources and opportunities to students in need. We believe that education is the key to unlocking potential, and with Our support, we can make a lasting impact on the lives of aspiring learners."
+  }
+
+]
